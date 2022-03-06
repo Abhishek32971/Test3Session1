@@ -1,1 +1,16 @@
-
+ gcc -g p4original.c
+ ./a.out
+enter the degree of the polynomial
+3
+enter the value of x
+1
+enter the coefficient 4
+1
+enter the coefficient 3
+1
+enter the coefficient 2
+1
+enter the coefficient 1
+1
+1*x^3+1*x^2+1*x^1+1 at 1.000000 is 4.000000
+ 
